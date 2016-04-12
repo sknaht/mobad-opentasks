@@ -4,7 +4,7 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="475598672374171" >
+    timestamp="502735488167466" >
 
     <task
         name="javac"
@@ -23,35 +23,12 @@
         location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="474649662922337" >
+    <build timestamp="502217386716637" >
         <artifact
             location="/Users/zy/opensources/mobad-opentasks/opentasks/build/outputs/apk/opentasks-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="475175424691773" >
-        <artifact
-            location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="475598672374171" >
+    <build timestamp="502735488167466" >
         <artifact
             location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
