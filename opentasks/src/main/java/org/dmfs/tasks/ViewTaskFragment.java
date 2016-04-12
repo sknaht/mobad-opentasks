@@ -24,6 +24,7 @@ import java.util.Set;
 import org.dmfs.android.retentionmagic.SupportFragment;
 import org.dmfs.android.retentionmagic.annotations.Parameter;
 import org.dmfs.android.retentionmagic.annotations.Retain;
+import org.dmfs.cmad.OrionNativeAdview;
 import org.dmfs.provider.tasks.TaskContract.Tasks;
 import org.dmfs.tasks.model.ContentSet;
 import org.dmfs.tasks.model.Model;
@@ -70,7 +71,13 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.view.animation.AlphaAnimation;
+import android.widget.FrameLayout;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import com.cmcm.adsdk.nativead.NativeAdManager;
+import com.cmcm.baseapi.ads.INativeAd;
+import com.cmcm.baseapi.ads.INativeAdLoaderListener;
 
 
 /**
@@ -83,6 +90,15 @@ import android.widget.TextView;
 public class ViewTaskFragment extends SupportFragment implements OnModelLoadedListener, OnContentChangeListener, OnMenuItemClickListener,
 	OnOffsetChangedListener, OnGlobalLayoutListener
 {
+	/* 广告 Native大卡样式 */
+	private NativeAdManager nativeAdManager;
+	private FrameLayout nativeAdContainer;
+	/* 广告 Native大卡样式 */
+	private String mAdPosid = "1362100";
+
+	private OrionNativeAdview mAdView = null;
+
+
 	private final static String ARG_URI = "uri";
 
 	/**
@@ -271,6 +287,36 @@ public class ViewTaskFragment extends SupportFragment implements OnModelLoadedLi
 
 	}
 
+	private void initNativeAd() {
+		nativeAdManager = new NativeAdManager(getActivity(), mAdPosid);
+		nativeAdManager.setNativeAdListener(new INativeAdLoaderListener() {
+			@Override
+			public void adLoaded() {
+				INativeAd ad = nativeAdManager.getAd();
+				if (mAdView != null) {
+					// 把旧的广告view从广告容器中移除
+					nativeAdContainer.removeView(mAdView);
+				}
+				if (ad == null) {
+					return;
+				}
+				//通过广告数据渲染广告View
+				mAdView = OrionNativeAdview.createAdView(getActivity().getApplicationContext(), ad);
+				nativeAdContainer.addView(mAdView);
+			}
+
+			@Override
+			public void adFailedToLoad(int i) {
+			}
+
+
+			@Override
+			public void adClicked(INativeAd ad) {
+			}
+
+		});
+	}
+
 
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
@@ -284,6 +330,10 @@ public class ViewTaskFragment extends SupportFragment implements OnModelLoadedLi
 		mToolBar.setOnMenuItemClickListener(this);
 		mToolBar.setTitle("");
 		mAppBar.addOnOffsetChangedListener(this);
+
+		nativeAdContainer = (FrameLayout) mRootView.findViewById(R.id.big_ad_container);
+		initNativeAd();
+		nativeAdManager.loadAd();
 
 		animate(mToolBar.findViewById(R.id.toolbar_title), 0, View.INVISIBLE);
 

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/root_view"
+    >
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/cm_vast_ico_renew"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/iv_replay"/>
+    <ImageView
+        android:id="@+id/iv_close"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/cm_vast_close"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"/>
+
+    <LinearLayout
+        android:id="@+id/ll_ad_body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:background="#FFF2F2F2"
+        >
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:id="@+id/tv_title"
+                android:text="Piano Tiles 2"
+                android:textColor="#FF333333"
+                android:textSize="20sp"
+                android:layout_marginTop="20dp"
+                android:singleLine="true"
+            />
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="16dp"
+           android:layout_marginTop="12dp"
+           android:gravity="center_vertical"
+           android:orientation="horizontal">
+
+           <ImageView
+               android:layout_width="100dp"
+               android:layout_height="16dp"
+               android:src="@drawable/cm_vast_pic_star"
+               android:layout_marginLeft="14dp"
+               />
+           <TextView
+               android:id="@+id/tv_download_num"
+               android:layout_width="wrap_content"
+               android:layout_height="16dp"
+               android:textColor="#FF666666"
+               android:textSize="14sp"
+               android:text="3,958,035"
+               android:layout_marginLeft="16dp"/>
+
+           <ImageView
+               android:layout_width="13dp"
+               android:layout_height="13dp"
+               android:layout_marginTop="2dp"
+               android:layout_marginLeft="4dp"
+               android:src="@drawable/cm_vast_ico_users"/>
+
+       </LinearLayout>
+
+        <ImageView
+            android:layout_marginTop="18dp"
+            android:layout_width="match_parent"
+            android:id="@+id/iv_cover_image"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            />
+        <RelativeLayout
+            android:layout_below="@+id/ll_ad_body"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            >
+            <View
+                android:id="@+id/white_view"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="#FFF2F2F2"
+                />
+
+            <RelativeLayout
+                android:layout_below="@+id/white_view"
+                android:layout_width="wrap_content"
+                android:background="#FF039BE5"
+                android:layout_height="72dp">
+            <ImageView
+                android:layout_width="114dp"
+                android:layout_height="28dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="24dp"
+                android:src="@drawable/cm_vast_ico_gp"/>
+
+            <TextView
+                android:id="@+id/tv_action"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Learn More"
+                android:padding="2dp"
+                android:layout_marginBottom="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="24dp"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:textColor="#FFFFFFFF"
+                />
+            </RelativeLayout>
+
+
+            <ImageView
+                android:id="@+id/iv_download"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/cm_vast_ico_install"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="24dp"
+        android:id="@+id/ll_ad_detail"
+        android:background="@drawable/img_interstitial_adsby_bg"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_ad_detail"
+            android:layout_gravity="center_vertical"
+            android:text="Ads by "
+            android:textColor="#ffffff"
+            android:textSize="12sp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="2dp"
+            />
+        <ImageView
+            android:layout_width="27dp"
+            android:layout_height="10dp"
+            android:layout_marginTop="2dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/img_interstitial_ads_cm_icon"/>
+
+    </LinearLayout>
+</RelativeLayout>

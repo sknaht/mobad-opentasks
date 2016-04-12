@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="color-picker-c3b3b52033dc0b33bd831e731ec6f74fb1e8a69a">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/opentasks/build/intermediates/exploded-aar/com.github.dmfs/color-picker/c3b3b52033dc0b33bd831e731ec6f74fb1e8a69a/jars/libs/android-retention-magic-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opentasks/build/intermediates/exploded-aar/com.github.dmfs/color-picker/c3b3b52033dc0b33bd831e731ec6f74fb1e8a69a/jars/libs/drawablepagertabstrip.jar!/" />
+      <root url="file://$PROJECT_DIR$/opentasks/build/intermediates/exploded-aar/com.github.dmfs/color-picker/c3b3b52033dc0b33bd831e731ec6f74fb1e8a69a/res" />
+      <root url="jar://$PROJECT_DIR$/opentasks/build/intermediates/exploded-aar/com.github.dmfs/color-picker/c3b3b52033dc0b33bd831e731ec6f74fb1e8a69a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

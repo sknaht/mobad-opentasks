@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/task_list_title_text.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/color/task_list_title_text.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/due_date_text.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/color/due_date_text.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/color/overdue_date_text.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/color/overdue_date_text.xml"
+    }
+]

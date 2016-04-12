@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="background">?attr/colorPrimary</item>
+        <item name="displayOptions">showTitle</item>
+        <item name="icon">@android:color/transparent</item>
+        <item name="actionBarItemBackground">@drawable/selectable_background_white</item>
+    </style>
+    <style name="AppBaseTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/ActionBar</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:actionBarWidgetTheme">@style/actionBarWidgetTheme</item>
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_white</item>
+        <item name="searchViewStyle">@style/WhiteSearchViewStyle</item>
+        <item name="autoCompleteTextViewStyle">@style/cursorColor</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="DatePickerHolo" parent="@android:style/Theme.Holo.Light.Dialog"/>
+    <style name="DetailsActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#00000000</item>
+        <item name="displayOptions">showTitle</item>
+        <item name="icon">@android:color/transparent</item>
+    </style>
+    <style name="OpenTasksAppBaseTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="searchViewStyle">@style/WhiteSearchViewStyle</item>
+        <item name="autoCompleteTextViewStyle">@style/cursorColor</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+    <style name="Platform.AppCompat" parent="Platform.V14.AppCompat"/>
+    <style name="Platform.AppCompat.Light" parent="Platform.V14.AppCompat.Light"/>
+    <style name="Platform.V14.AppCompat" parent="Platform.V11.AppCompat">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="Platform.V14.AppCompat.Light" parent="Platform.V11.AppCompat.Light">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="TextAppearance.EditTask_Spinner" parent="android:style/Widget.Holo.Light.Spinner">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FF333333</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.StatusBar.EventContent.Info"/>
+    <style name="TextAppearance.StatusBar.EventContent.Line2">
+        <item name="android:textSize">@dimen/notification_subtext_size</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Time"/>
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="WhiteSearchViewStyle" parent="@style/Widget.AppCompat.SearchView">
+        <item name="queryBackground">@drawable/bg_searchview</item>
+    </style>
+    <style name="actionBarWidgetTheme" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="android:textColorHint">#80ffffff</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="cursorColor" parent="Widget.AppCompat.AutoCompleteTextView">
+        <item name="android:textCursorDrawable">@drawable/text_cursor_white</item>
+    </style>
+    <style name="dark_text">
+        <item name="android:textColor">#FF333333</item>
+    </style>
+    <style name="detail_label_line">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="detail_label_text">
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+    <style name="dialog_button_primary" parent="TextAppearance.AppCompat.Button">
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:textColor">@color/accent_material_light</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:minWidth">88dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="editor_label_line">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="editor_label_text">
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="expandable_task_list">
+        <item name="android:scrollbarStyle">insideOverlay</item>
+        <item name="android:scrollbarSize">20dp</item>
+        <item name="android:divider">@null</item>
+        <item name="android:background">#fff0f0f0</item>
+    </style>
+    <style name="task_list_group_divider">
+        <item name="android:background">@android:color/holo_blue_light</item>
+    </style>
+    <style name="task_list_item_divider">
+        <item name="android:layout_marginRight">0dp</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:background">@drawable/task_divider</item>
+    </style>
+    <style name="task_progressbar" parent="android:Widget.Holo.ProgressBar.Horizontal"/>
+    <style name="task_seekbar" parent="android:Widget.Holo.SeekBar"/>
+    <style name="widget_header_divider">
+        <item name="android:background">@android:color/holo_blue_bright</item>
+    </style>
+</resources>

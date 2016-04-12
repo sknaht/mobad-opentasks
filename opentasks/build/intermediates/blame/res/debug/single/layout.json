@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_list_widget.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_list_widget.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/text_field_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/text_field_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/list_color_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/list_color_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/text_field_view_nodivider.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/text_field_view_nodivider.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/editor_header.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/editor_header.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_detail_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_detail_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/choices_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/choices_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/time_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/time_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_list_provider_bar.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_list_provider_bar.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/detail_label.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/detail_label.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/choices_field_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/choices_field_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/boolean_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/boolean_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_synced_task_list.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_synced_task_list.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/cm_vast_small_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/cm_vast_small_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_task_detail.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/activity_task_detail.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/boolean_field_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/boolean_field_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/cm_splash_time.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/cm_splash_time.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/native_ad_layout.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/native_ad_layout.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_expandable_task_list.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_expandable_task_list.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/integer_choices_spinner_selected_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/integer_choices_spinner_selected_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_task_list_selection.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_task_list_selection.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_list_group_single_line.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_list_group_single_line.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_input_text_dialog.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_input_text_dialog.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_list_field_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_list_field_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_task_view_detail.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_task_view_detail.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/org_dmfs_colorpickerdialog_fragment.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.github.dmfs/color-picker/c3b3b52033dc0b33bd831e731ec6f74fb1e8a69a/res/layout/org_dmfs_colorpickerdialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/cm_activity_vast_detail_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/cm_activity_vast_detail_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_task_edit_detail.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_task_edit_detail.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/list_spinner_item_dropdown.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/list_spinner_item_dropdown.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/checklist_field_view_element.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/checklist_field_view_element.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_widget_configuration.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/activity_widget_configuration.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/text_field_view_nodivider_large.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/text_field_view_nodivider_large.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/percentage_field_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/percentage_field_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/org_dmfs_colorpickerdialog_palette_grid.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.github.dmfs/color-picker/c3b3b52033dc0b33bd831e731ec6f74fb1e8a69a/res/layout/org_dmfs_colorpickerdialog_palette_grid.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/cm_vast_ad_layout.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/cm_vast_ad_layout.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_picks_loading.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/activity_picks_loading.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/integer_choices_spinner_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/integer_choices_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/org_dmfs_colorpickerdialog_palette_field.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.github.dmfs/color-picker/c3b3b52033dc0b33bd831e731ec6f74fb1e8a69a/res/layout/org_dmfs_colorpickerdialog_palette_field.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_quick_add_dialog.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_quick_add_dialog.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/gps_dialog.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/gps_dialog.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_editor_activity.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_editor_activity.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/url_field_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/url_field_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/list_spinner_item_selected_quick_add.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/list_spinner_item_selected_quick_add.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/url_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/url_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_task_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/activity_task_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/list_item_selection.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/list_item_selection.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_task_twopane.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/activity_task_twopane.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/cm_activity_full_screen_video.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/cm_activity_full_screen_video.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/text_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/text_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_task_edit_detail_twopane.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_task_edit_detail_twopane.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/text_field_view_nodivider_small.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/text_field_view_nodivider_small.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_list_element.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_list_element.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_picks_browser.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/activity_picks_browser.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/percentage_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/percentage_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/list_spinner_item_selected.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/list_spinner_item_selected.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_list_widget_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_list_widget_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_quick_add_dialog_header.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_quick_add_dialog_header.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/account_list_item_dialog.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/account_list_item_dialog.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/checklist_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/checklist_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/time_field_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/time_field_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/opentasks_layout_tab_icon.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/opentasks_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_list_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_list_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/cm_activity_picks_interstitial.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/cm_activity_picks_interstitial.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/origin_picks_banner.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/cmadsdk_ext_world_all_V3.7.0/res/layout/origin_picks_banner.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_list_group.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_list_group.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/task_edit.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/task_edit.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/checklist_field_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/checklist_field_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/checklist_field_editor_element.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/checklist_field_editor_element.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_manage_task_list.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/activity_manage_task_list.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_task_twopane_small.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/activity_task_twopane_small.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/visible_task_list_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/visible_task_list_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/activity_task_list.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/activity_task_list.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/fragment_visiblelist_list.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout/fragment_visiblelist_list.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    }
+]

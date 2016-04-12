@@ -5,8 +5,8 @@ android {
     buildToolsVersion '23.0.2'
     defaultConfig {
         applicationId "org.dmfs.tasks"
-        minSdkVersion 8
-        targetSdkVersion 22
+        minSdkVersion 9
+        targetSdkVersion 23
         versionCode 103
         versionName '1.1.8.2'
     }
@@ -42,4 +42,6 @@ dependencies {
     compile('org.dmfs:opentasks-provider:1.1.8.1')
     compile 'com.google.android.apps.dashclock:dashclock-api:2.0.0'
     compile 'com.github.dmfs:color-picker:c3b3b52033dc0b33bd831e731ec6f74fb1e8a69a'
+    compile files('libs/volley.jar')
+    compile(name: 'cmadsdk_ext_world_all_V3.7.0', ext: 'aar')
 }

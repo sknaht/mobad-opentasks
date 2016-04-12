@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/full_screen_video"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <com.cmcm.picks.vastvideo.VastTextureView
+            android:id="@+id/video_full_screen"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+        <ImageView
+            android:id="@+id/vast_full_img_stranch"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:visibility="visible"
+            android:src="@drawable/vast_shrink" />
+
+        <ImageView
+            android:id="@+id/close_video"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:visibility="gone"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/vast_fullview_close" />
+
+        <ImageView
+            android:id="@+id/vast_full_img_volume"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/vast_volume_off" />
+
+        <LinearLayout
+            android:id="@+id/view_download"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="16dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            android:background="@drawable/cmad_bg_vast_download"
+            >
+        <ImageView
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/cm_vast_video_download"/>
+
+        <TextView
+            android:id="@+id/tv_download"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Learn More"
+            android:layout_gravity="center_vertical"
+            android:textSize="12sp"
+            android:layout_marginLeft="2dp"
+            android:textColor="#FFFFFFFF"
+            />
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/vast_video_play"
+            android:layout_width="68dp"
+            android:layout_height="68dp"
+            android:visibility="gone"
+            android:layout_centerInParent="true"
+            android:src="@drawable/vast_play" />
+
+        <TextView
+            android:id="@+id/tv_play_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="40dp"
+            android:background="@drawable/cmad_bg_tip_text"
+            android:paddingLeft="12dp"
+            android:gravity="center_vertical"
+            android:paddingRight="12dp"
+            android:textColor="#DEFFFFFF"
+            android:visibility="gone"
+            android:text="Video paused. Tap screen to continue watching."
+            />
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/video_full_screen_progress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_alignParentBottom="true"
+        android:progressDrawable="@drawable/vast_progress_style" />
+
+</RelativeLayout>

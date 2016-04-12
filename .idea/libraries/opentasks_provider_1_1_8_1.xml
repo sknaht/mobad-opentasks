@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="opentasks-provider-1.1.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.dmfs/opentasks-provider/1.1.8.1/ed2b318ff5fe3715a050ef4436a810a22fc3d59c/opentasks-provider-1.1.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.dmfs/opentasks-provider/1.1.8.1/cd7a6aa60728e69396a311240b1bfa725daf0af7/opentasks-provider-1.1.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

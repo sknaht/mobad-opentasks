@@ -1,0 +1,6 @@
+int id pager 0x7f040000
+int id pager_title_strip 0x7f040001
+int layout org_dmfs_colorpickerdialog_fragment 0x7f020000
+int layout org_dmfs_colorpickerdialog_palette_field 0x7f020001
+int layout org_dmfs_colorpickerdialog_palette_grid 0x7f020002
+int string org_dmfs_colorpicker_pick_a_color 0x7f030000

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/task_list_widget_loading.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/task_list_widget_loading.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/fragment_task_list_selection.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/fragment_task_list_selection.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/task_list_widget.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/task_list_widget.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/text_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/text_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/checklist_field_view_element.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/checklist_field_view_element.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/undo_notification.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/undo_notification.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/task_list_widget_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/task_list_widget_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/checklist_field_view.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/checklist_field_view.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/url_field_editor.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/url_field_editor.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/integer_choices_spinner_item.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/integer_choices_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/layout-v11/list_item_selection.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/layout-v11/list_item_selection.xml"
+    }
+]

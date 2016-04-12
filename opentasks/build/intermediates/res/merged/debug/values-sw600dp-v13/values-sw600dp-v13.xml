@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="has_two_panes">false</bool>
+    <bool name="opentasks_enabled_detail_view_fab">false</bool>
+    <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8dp</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="design_snackbar_action_inline_max_width">0dp</dimen>
+    <dimen name="design_snackbar_background_corner_radius">2dp</dimen>
+    <dimen name="design_snackbar_extra_spacing_horizontal">24dp</dimen>
+    <dimen name="design_snackbar_max_width">576dp</dimen>
+    <dimen name="design_snackbar_min_width">320dp</dimen>
+    <dimen name="design_snackbar_padding_vertical_2lines">@dimen/design_snackbar_padding_vertical</dimen>
+    <dimen name="design_tab_scrollable_min_width">160dp</dimen>
+    <dimen name="opentasks_details_pane_margin_bottom">-80dp</dimen>
+    <dimen name="opentasks_details_pane_overlay_top">128dp</dimen>
+    <dimen name="opentasks_two_pane_list_width">360dp</dimen>
+    <dimen name="task_list_left_margin">10dp</dimen>
+    <dimen name="task_list_right_margin">10dp</dimen>
+    <integer name="abc_max_action_buttons">5</integer>
+    <integer name="design_snackbar_text_max_lines">1</integer>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+    <style name="edit_detail_ll">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="edit_detail_pane">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@color/light_gray</item>
+    </style>
+    <style name="task_list_container">
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="task_list_group_count" parent="editor_label_text">
+        <item name="android:layout_marginRight">25dp</item>
+    </style>
+    <style name="task_list_item_date" parent="dark_text">
+        <item name="android:layout_marginRight">25dp</item>
+    </style>
+</resources>

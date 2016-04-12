@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/menu-v11/view_task_fragment_menu.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/menu-v11/view_task_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/menu-v11/edit_task_activity_menu.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/menu-v11/edit_task_activity_menu.xml"
+    }
+]

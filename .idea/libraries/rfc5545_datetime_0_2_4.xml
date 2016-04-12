@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rfc5545-datetime-0.2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.dmfs/rfc5545-datetime/0.2.4/204c1caf63c43c54d803282aa7a15bb0b0e5304e/rfc5545-datetime-0.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.dmfs/rfc5545-datetime/0.2.4/f8cb6233e17cd37b927654f3b6c8a032547a3a98/rfc5545-datetime-0.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

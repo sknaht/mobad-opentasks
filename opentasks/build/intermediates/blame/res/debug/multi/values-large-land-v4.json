@@ -1,0 +1,142 @@
+[
+    {
+        "outputFile": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/values-large-land-v4/values-large-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-large-land/bools.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 62,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-large-land/bools.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 62,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 61,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 71,
+                        "endColumn": 61,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 53,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-large-land/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 53,
+                        "endOffset": 66
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 92,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-large-land/refs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 92,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 105,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-large-land/refs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 105,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-large-land/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 221
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">取消</string>
+    <string name="download">下載</string>
+    <string name="downloading">正在加載...</string>
+    <string name="gps_prompt_context">移動網絡下載會使用流量，確定下載？</string>
+    <string name="gps_prompt_title">溫馨提示</string>
+</resources>

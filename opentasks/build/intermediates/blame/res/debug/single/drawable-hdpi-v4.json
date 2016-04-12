@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/content_edit.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/content_edit.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unselected_focused_white.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/tab_unselected_focused_white.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_priority.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_priority.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_dashboard.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_dashboard.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_checkmark_dark.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_checkmark_dark.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_status.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_status.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_due.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_due.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_start.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_start.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_description.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_description.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_checkmark_blank.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_checkmark_blank.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_delay_1h_inverse.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_delay_1h_inverse.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_url.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_url.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_delay_1h.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_delay_1h.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_history.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_history.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_24_settings_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_24_settings_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_list.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_tab_list.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_start.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_tab_start.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/content_remove_light.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/content_remove_light.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/content_save_light.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/content_save_light.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_24_cancel_circle_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_24_cancel_circle_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_24_plus_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_24_plus_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_pin_off_white_24dp.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_pin_off_white_24dp.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_delay_1d_inverse.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_delay_1d_inverse.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_pressed_white.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/list_pressed_white.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_completed.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_completed.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_progress.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_progress.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_24_account_circle_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_24_account_circle_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_selected_pressed_white.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/tab_selected_pressed_white.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_checkmark_light.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_checkmark_light.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_visibility.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_visibility.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unselected_pressed_white.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/tab_unselected_pressed_white.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_24_drag_handle_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_24_drag_handle_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_list.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_list.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_selected_white.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/tab_selected_white.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/content_new_light.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/content_new_light.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_due.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_tab_due.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_selected_focused_white.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/tab_selected_focused_white.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_search.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_tab_search.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/navigation_accept.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/navigation_accept.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_delay_1d.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_delay_1d.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_priority.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_tab_priority.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_progress.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_tab_progress.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_add.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_complete.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_action_complete.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/content_discard.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/content_discard.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_location.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_location.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/content_remove.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/content_remove.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unselected_white.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/tab_unselected_white.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_pin_white_24dp.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_pin_white_24dp.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_notification.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_24_undo_white.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_24_undo_white.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_24_remove_circle_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_24_remove_circle_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_24_undo_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_24_undo_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_focused_white.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/list_focused_white.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_background_holo.9.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/list_background_holo.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_detail_checklist.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-hdpi/ic_detail_checklist.png"
+    }
+]

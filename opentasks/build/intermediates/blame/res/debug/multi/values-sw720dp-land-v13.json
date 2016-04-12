@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-sw720dp-land/bools.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 54,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 58,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 53,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 53,
+                        "endOffset": 308
+                    }
+                }
+            }
+        ]
+    }
+]

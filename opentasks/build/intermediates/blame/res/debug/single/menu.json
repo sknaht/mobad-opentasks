@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/menu/list_settings_menu.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/menu/list_settings_menu.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/menu/task_list_activity_menu.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/menu/task_list_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/menu/edit_task_activity_menu.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/menu/edit_task_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/menu/task_list_fragment_menu.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/menu/task_list_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/menu/settings.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/menu/settings.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/menu/view_task_fragment_menu.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/menu/view_task_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/menu/test_display.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/menu/test_display.xml"
+    }
+]

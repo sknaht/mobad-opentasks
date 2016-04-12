@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/navigation_accept.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/navigation_accept.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_24_account_circle_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_24_account_circle_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_24_settings_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_24_settings_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_24_remove_circle_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_24_remove_circle_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_add.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_action_add.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_checkmark_dark.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_checkmark_dark.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_24_drag_handle_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_24_drag_handle_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_24_cancel_circle_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_24_cancel_circle_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_checkmark_blank.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_checkmark_blank.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_24_plus_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_24_plus_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/content_discard.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/content_discard.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_checkmark_light.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_checkmark_light.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/content_remove_light.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/content_remove_light.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_24_undo_black50.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_24_undo_black50.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_24_undo_white.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/ic_24_undo_white.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-ldpi-v4/content_edit.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-ldpi/content_edit.png"
+    }
+]

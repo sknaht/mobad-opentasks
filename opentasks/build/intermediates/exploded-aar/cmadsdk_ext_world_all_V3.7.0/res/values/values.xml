@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CMAdSdkExtension</string>
+    <string name="cancel">Cancel</string>
+    <string name="download">Continue</string>
+    <string name="downloading">Loading...</string>
+    <string name="gps_prompt_context">Downloading with mobile network?</string>
+    <string name="gps_prompt_title">Tips</string>
+    <style name="cm_interstital">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:alwaysDrawnWithCache">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFrame">@null</item>
+    </style>
+</resources>

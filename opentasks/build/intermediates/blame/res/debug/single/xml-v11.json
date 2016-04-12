@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/xml-v11/listview_tabs.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/xml-v11/listview_tabs.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/xml-v11/task_widget_info.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/xml-v11/task_widget_info.xml"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/xml-v11/task_widget_info_large.xml",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/xml-v11/task_widget_info_large.xml"
+    }
+]

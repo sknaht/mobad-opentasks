@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="has_two_panes">true</bool>
+    <bool name="opentasks_enabled_detail_view_fab">true</bool>
+    <dimen name="opentasks_two_pane_list_width">360dp</dimen>
+    <dimen name="task_list_right_margin">10dp</dimen>
+    <item name="activity_task_list" type="layout">@layout/activity_task_twopane_small</item>
+    <item name="fragment_task_edit_detail" type="layout">@layout/fragment_task_edit_detail_twopane</item>
+    <style name="edit_detail_ll">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:layout_width">600dp</item>
+    </style>
+</resources>
