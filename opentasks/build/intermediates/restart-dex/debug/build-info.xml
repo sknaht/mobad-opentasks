@@ -4,7 +4,7 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="502735488167466" >
+    timestamp="133516803788564" >
 
     <task
         name="javac"
@@ -23,12 +23,12 @@
         location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="502217386716637" >
+    <build timestamp="133449511545365" >
         <artifact
             location="/Users/zy/opensources/mobad-opentasks/opentasks/build/outputs/apk/opentasks-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="502735488167466" >
+    <build timestamp="133516803788564" >
         <artifact
             location="/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />

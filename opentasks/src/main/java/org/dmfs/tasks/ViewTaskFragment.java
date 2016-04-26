@@ -25,6 +25,7 @@ import org.dmfs.android.retentionmagic.SupportFragment;
 import org.dmfs.android.retentionmagic.annotations.Parameter;
 import org.dmfs.android.retentionmagic.annotations.Retain;
 import org.dmfs.cmad.OrionNativeAdview;
+import org.dmfs.cmad.OrionNativeBrandingAdview;
 import org.dmfs.provider.tasks.TaskContract.Tasks;
 import org.dmfs.tasks.model.ContentSet;
 import org.dmfs.tasks.model.Model;
@@ -96,7 +97,7 @@ public class ViewTaskFragment extends SupportFragment implements OnModelLoadedLi
 	/* 广告 Native大卡样式 */
 	private String mAdPosid = "1362100";
 
-	private OrionNativeAdview mAdView = null;
+	private OrionNativeBrandingAdview mAdView = null;
 
 
 	private final static String ARG_URI = "uri";
@@ -301,7 +302,7 @@ public class ViewTaskFragment extends SupportFragment implements OnModelLoadedLi
 					return;
 				}
 				//通过广告数据渲染广告View
-				mAdView = OrionNativeAdview.createAdView(getActivity().getApplicationContext(), ad);
+				mAdView = OrionNativeBrandingAdview.createAdView(getActivity().getApplicationContext(), ad);
 				nativeAdContainer.addView(mAdView);
 			}
 

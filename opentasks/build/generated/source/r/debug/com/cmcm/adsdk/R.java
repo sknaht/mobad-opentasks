@@ -62,11 +62,11 @@ public final class R {
 		public static final int browser_refresh = 0x7f0e0088;
 		public static final int btn_calltoaction = 0x7f0e00ad;
 		public static final int close_video = 0x7f0e009f;
-		public static final int cm_icon = 0x7f0e0101;
+		public static final int cm_icon = 0x7f0e00fe;
 		public static final int cover_top = 0x7f0e00c3;
-		public static final int framelayout = 0x7f0e00ff;
+		public static final int framelayout = 0x7f0e00fc;
 		public static final int full_screen_video = 0x7f0e009c;
-		public static final int img_icon = 0x7f0e0100;
+		public static final int img_icon = 0x7f0e00fd;
 		public static final int iv_close = 0x7f0e00af;
 		public static final int iv_cover_image = 0x7f0e00b5;
 		public static final int iv_coverimage = 0x7f0e00ab;
@@ -77,7 +77,7 @@ public final class R {
 		public static final int ll_ad_body = 0x7f0e00b3;
 		public static final int ll_ad_body_inner = 0x7f0e00a8;
 		public static final int ll_ad_detail = 0x7f0e00b0;
-		public static final int ll_originbnanner = 0x7f0e00fe;
+		public static final int ll_originbnanner = 0x7f0e00fb;
 		public static final int main_rl = 0x7f0e0084;
 		public static final int none = 0x7f0e0024;
 		public static final int number = 0x7f0e00ba;
@@ -89,10 +89,10 @@ public final class R {
 		public static final int root_view = 0x7f0e00a6;
 		public static final int tv_action = 0x7f0e00b7;
 		public static final int tv_ad_detail = 0x7f0e00b1;
-		public static final int tv_buttonText = 0x7f0e0102;
+		public static final int tv_buttonText = 0x7f0e00ff;
 		public static final int tv_cancel = 0x7f0e00e4;
 		public static final int tv_des = 0x7f0e00ac;
-		public static final int tv_describe = 0x7f0e0103;
+		public static final int tv_describe = 0x7f0e0100;
 		public static final int tv_download = 0x7f0e00a2;
 		public static final int tv_download_num = 0x7f0e00b4;
 		public static final int tv_play_tip = 0x7f0e00a4;
@@ -131,7 +131,7 @@ public final class R {
 		public static final int cm_vast_ad_layout = 0x7f030030;
 		public static final int cm_vast_small_view = 0x7f030031;
 		public static final int gps_dialog = 0x7f030048;
-		public static final int origin_picks_banner = 0x7f03005d;
+		public static final int origin_picks_banner = 0x7f03005e;
 	}
 	public static final class raw {
 	}

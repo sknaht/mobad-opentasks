@@ -3,7 +3,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/ad_border"
     android:layout_height="wrap_content" >
     <RelativeLayout
         android:layout_width="match_parent"
@@ -13,8 +12,8 @@
 
         <ImageView
             android:id="@+id/big_iv_icon"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
             android:scaleType="centerCrop"
             android:src="@drawable/ic_ad_icon_default" />
 
@@ -37,21 +36,12 @@
                 android:text="ad title"
                 android:textSize="18sp" />
 
-            <TextView
-                android:id="@+id/big_sub_title"
-                android:layout_width="wrap_content"
-                android:textColor="@color/holo_blue_dark"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="6dp"
-                android:singleLine="true"
-                android:text="sub title"
-                android:textSize="14sp" />
         </LinearLayout>
 
         <Button
             android:id="@+id/big_btn_install"
             android:layout_width="wrap_content"
-            android:layout_height="32dp"
+            android:layout_height="28dp"
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
             android:background="#00cc99"
@@ -60,29 +50,6 @@
             android:textSize="14sp" />
     </RelativeLayout>
 
-    <ImageView
-        android:id="@+id/iv_main"
-        android:layout_width="match_parent"
-        android:layout_height="180dp"
-        android:src="@drawable/default_bg"
-        android:scaleType="fitXY"
-        android:visibility="gone"
-        android:layout_marginRight="10dp"
-        android:layout_marginLeft="10dp"
-        />
 
-    <TextView
-        android:id="@+id/text_body"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="this is description"
-        android:lines="2"
-        android:ellipsize="end"
-        android:textColor="@color/translucent_black"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:layout_marginTop="6dp"
-        android:layout_marginBottom="0dp"
-        android:textSize="14sp" />
 
 </LinearLayout>

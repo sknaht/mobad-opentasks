@@ -20,6 +20,8 @@ package org.dmfs.tasks;
 import org.dmfs.android.retentionmagic.SupportFragment;
 import org.dmfs.android.retentionmagic.annotations.Parameter;
 import org.dmfs.android.retentionmagic.annotations.Retain;
+import org.dmfs.cmad.OrionNativeAdview;
+import org.dmfs.cmad.OrionNativeBrandingAdview;
 import org.dmfs.provider.tasks.TaskContract;
 import org.dmfs.provider.tasks.TaskContract.Instances;
 import org.dmfs.provider.tasks.TaskContract.Tasks;
@@ -70,8 +72,13 @@ import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupCollapseListener;
+import android.widget.FrameLayout;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import com.cmcm.adsdk.nativead.NativeAdManager;
+import com.cmcm.baseapi.ads.INativeAd;
+import com.cmcm.baseapi.ads.INativeAdLoaderListener;
 
 
 /**
@@ -137,6 +144,14 @@ public class TaskListFragment extends SupportFragment
 
 	/** The child position to open when the fragment is displayed. **/
 	private ListPosition mSelectedChildPosition;
+
+	/* 广告 Native大卡样式 */
+	private NativeAdManager nativeAdManager;
+	private FrameLayout nativeAdContainer;
+	/* 广告 Native大卡样式 */
+	private String mAdPosid = "1362100";
+	private OrionNativeAdview mAdView = null;
+
 
 	@Retain
 	private int mPageId = -1;
@@ -296,9 +311,43 @@ public class TaskListFragment extends SupportFragment
 			getActivity().getApplicationContext());
 		swiper.setOnFlingListener(this);
 
+		nativeAdContainer = (FrameLayout) rootView.findViewById(R.id.big_ad_container);
+		initNativeAd();
+		nativeAdManager.loadAd();
+
 		return rootView;
 	}
 
+	private void initNativeAd() {
+		nativeAdManager = new NativeAdManager(getActivity(), mAdPosid);
+
+		nativeAdManager.setNativeAdListener(new INativeAdLoaderListener() {
+			@Override
+			public void adLoaded() {
+				INativeAd ad = nativeAdManager.getAd();
+				if (mAdView != null) {
+					// 把旧的广告view从广告容器中移除
+					nativeAdContainer.removeView(mAdView);
+				}
+				if (ad == null) {
+					return;
+				}
+				//通过广告数据渲染广告View
+				mAdView = OrionNativeAdview.createAdView(getActivity().getApplicationContext(), ad);
+				nativeAdContainer.addView(mAdView);
+			}
+
+			@Override
+			public void adFailedToLoad(int i) {
+			}
+
+
+			@Override
+			public void adClicked(INativeAd ad) {
+			}
+
+		});
+	}
 
 	@Override
 	public void onViewCreated(View view, Bundle savedInstanceState)

@@ -9,12 +9,12 @@ package org.dmfs.android.colorpicker;
 public final class R {
 	public static final class id {
 		public static final int pager = 0x7f0e0091;
-		public static final int pager_title_strip = 0x7f0e00fd;
+		public static final int pager_title_strip = 0x7f0e00fa;
 	}
 	public static final class layout {
-		public static final int org_dmfs_colorpickerdialog_fragment = 0x7f03005a;
-		public static final int org_dmfs_colorpickerdialog_palette_field = 0x7f03005b;
-		public static final int org_dmfs_colorpickerdialog_palette_grid = 0x7f03005c;
+		public static final int org_dmfs_colorpickerdialog_fragment = 0x7f03005b;
+		public static final int org_dmfs_colorpickerdialog_palette_field = 0x7f03005c;
+		public static final int org_dmfs_colorpickerdialog_palette_grid = 0x7f03005d;
 	}
 	public static final class string {
 		public static final int org_dmfs_colorpicker_pick_a_color = 0x7f060068;

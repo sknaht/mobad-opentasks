@@ -20,6 +20,7 @@ package org.dmfs.tasks;
 import java.io.IOException;
 
 import org.dmfs.android.retentionmagic.annotations.Retain;
+import org.dmfs.cmad.OrionNativeBrandingAdview;
 import org.dmfs.provider.tasks.TaskContract;
 import org.dmfs.provider.tasks.TaskContract.Tasks;
 import org.dmfs.tasks.groupings.AbstractGroupingFactory;
@@ -70,6 +71,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.FrameLayout;
+
+import com.cmcm.adsdk.nativead.NativeAdManager;
+import com.cmcm.baseapi.ads.INativeAd;
+import com.cmcm.baseapi.ads.INativeAdLoaderListener;
 
 
 /**
@@ -170,7 +176,6 @@ public class TaskListActivity extends AppCompatActivity implements TaskListFragm
 	private AppBarLayout mAppBarLayout;
 
 	private FloatingActionButton mFloatingActionButton;
-
 
 	@SuppressLint("NewApi")
 	@TargetApi(Build.VERSION_CODES.ICE_CREAM_SANDWICH)
@@ -367,6 +372,8 @@ public class TaskListActivity extends AppCompatActivity implements TaskListFragm
 				}
 			});
 		}
+
+
 	}
 
 
@@ -375,6 +382,7 @@ public class TaskListActivity extends AppCompatActivity implements TaskListFragm
 	{
 		updateTitle(mCurrentPageId);
 		super.onResume();
+
 	}
 
 

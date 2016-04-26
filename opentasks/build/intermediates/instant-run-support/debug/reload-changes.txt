@@ -1,5 +1,4 @@
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/homescreen/TaskListWidgetUpdaterService$TaskListViewsFactory$override.class
-CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/ViewTaskFragment$2$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/R$xml$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/ViewTaskFragment$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/ByProgress$1$override.class
@@ -12,16 +11,13 @@ CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/tran
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/TaskListActivity$1$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/ByPriority$2$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/SettingsListFragment$VisibleListAdapter$override.class
-CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/ViewTaskFragment$5$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/BySearch$1$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/ByStartDate$2$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/R$menu$override.class
-CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/utils/TasksListCursorSpinnerAdapter$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/ByPriority$1$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/R$plurals$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/widget/TimeFieldEditor$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/ViewTaskFragment$4$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/widget/PercentageFieldEditor$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/ByList$2$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/EditTaskFragment$override.class
@@ -30,7 +26,6 @@ CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/tran
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/homescreen/TaskListWidgetProvider$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/homescreen/TaskListWidgetProviderLegacy$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/ByList$1$override.class
-CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/ViewTaskFragment$3$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/R$string$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/R$integer$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/TaskListActivity$4$override.class
@@ -41,11 +36,9 @@ CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/tran
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/android/colorpicker/R$id$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/TaskListFragment$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/ByPriority$override.class
-CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/ViewTaskFragment$1$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/ByStartDate$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/groupings/ByProgress$2$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
-CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/widget/ChoicesFieldEditor$ChoicesSpinnerAdapter$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/SettingsListFragment$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/R$id$override.class
 CHANGED,/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/dmfs/tasks/R$style$override.class

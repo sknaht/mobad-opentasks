@@ -60,12 +60,12 @@
         "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-mdpi/ic_detail_completed.png"
     },
     {
-        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_detail_delay_1d.png",
-        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-mdpi/ic_detail_delay_1d.png"
-    },
-    {
         "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_detail_delay_1d.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-mdpi/ic_detail_delay_1d.png"
     },
     {
         "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_24_undo_black50.png",
@@ -288,12 +288,12 @@
         "source": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_detail_list.png",
-        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-mdpi/ic_detail_list.png"
-    },
-    {
         "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_focused_white.9.png",
         "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-mdpi/tab_selected_focused_white.9.png"
+    },
+    {
+        "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_detail_list.png",
+        "source": "/Users/zy/opensources/mobad-opentasks/opentasks/src/main/res/drawable-mdpi/ic_detail_list.png"
     },
     {
         "merged": "/Users/zy/opensources/mobad-opentasks/opentasks/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
